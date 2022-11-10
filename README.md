@@ -16,7 +16,7 @@ __The main objective for this challenge was to condense and change the code to m
 * Contributing
 * Testing
 * Technology
-* Questions
+* Contact
 
  <hr>
 
@@ -47,13 +47,17 @@ ___Just me, myself, and I.___
 
 ## Testing 🧪 
 
+<img src= "./Develop/assets/images/1.png" width="60%">
+<img src= "./Develop/assets/images/2.png" width="60%">
+<img src= "./Develop/assets/images/3.png" width="60%">
+
 All testing was done by developing person.
 
 <hr>
 
 ## Techology 💻
 
-The only technology used for the project was HTML and CSS.
+The only technology used for this project was HTML and CSS.
 
 <hr>
 

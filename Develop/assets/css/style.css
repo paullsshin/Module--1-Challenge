@@ -85,12 +85,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* created a new class and condensed the same stylings into 1 */
+/* created a new class of side-bar and condensed the same stylings into 1 */
 .side-bar {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* the side-bar headers were originally broken up into 3 parts. They were the exacr same so I consolidated them into 1 */
 .side-bar h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* created a new class and condensed the same stylings into 1 */
+/* created a new class of middle and condensed the same stylings into 1 */
 .middle {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,7 +110,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* the images were broken into 3 separate parts, but the styling was the same so i combined them */
 .middle img {
     max-height: 200px;
 }
