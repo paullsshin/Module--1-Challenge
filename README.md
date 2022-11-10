@@ -1,6 +1,6 @@
 # Module 1 Challenge (Making it Look Prettier) ✨
 
-<!-- gthub link -->
+[To the Page!](https://paullsshin.github.io/Module--1-Challenge/)
 
 ## Mission 📚
 
