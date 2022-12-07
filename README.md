@@ -22,6 +22,8 @@ __The main objective for this challenge was to condense and change the code to m
 
  ## Installation ⚙️
 
+ ![screenshot](./assets/images/Screenshot%202022-12-06%2016.29.32.png)
+
  _No installation was required. The code was copied from a file._
 
  <hr>

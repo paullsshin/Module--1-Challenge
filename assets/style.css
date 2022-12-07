@@ -1,20 +1,21 @@
+/* applied to the whole document */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* affefcts the background */
 body {
     background-color: #d9dcd6;
 }
-
+/* affects the class of header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* each section here affects a different part of the header class */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* targets the a elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* targets the p elements */
 p {
     font-size: 16px;
 }
-
+/* affects the hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* affects the classes and also makes them float left or right */
 .float-left {
     float: left;
     margin-right: 25px;
